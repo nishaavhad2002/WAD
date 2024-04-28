@@ -57,3 +57,18 @@ public class TokenRing{
 		sc.close();
 	}
 }
+
+
+
+output  enter the number of nodes 5
+	0 1 2 3 4 0
+	enter sender 1
+	enter receiver 4
+	enter data 200
+	token passing 0->1
+	sender 1 sending data 200
+	data 200 forwrd by 1
+	data 22            2
+	                   3
+	recever 4 recevied data 200
+	
