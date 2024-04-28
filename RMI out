@@ -1,0 +1,20 @@
+RMI output 
+c:\Users\downlods\RMI\javac *.java
+                      \rmiregistry 
+
+
+
+
+
+
+
+c:\Users\downlods\RMI\java Server
+server is ready
+
+
+
+
+c:\Users\downlods\RMI\java Client
+enter first number :10
+                     5
+
